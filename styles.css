@@ -91,7 +91,7 @@ header h1 {
     border: 2px solid #007BFF;
 }
 
-.btn1 {
+#btn1 {
     background-color: #007bff;
     color: #fff;
     border: none;
@@ -102,7 +102,7 @@ header h1 {
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
-.btn1:hover {
+#btn1:hover {
     background-color: #0056b3;
     transform: scale(1.05);
 }
